@@ -1,0 +1,34 @@
+{
+  "image_name": "cyberdojofoundation/clangpp_catch:d2aa9c1",
+  "display_name": "C++ (clang++), Catch",
+  "filename_extension": [
+    ".cpp",
+    ".hpp",
+    ".c",
+    ".h"
+  ],
+  "max_seconds": 10,
+  "tab_size": 4,
+  "exercise": "Print Diamond",
+  "theme": "light",
+  "colour": "on",
+  "predict": "off",
+  "revert_red": "off",
+  "revert_amber": "off",
+  "revert_green": "off",
+  "version": 2,
+  "created": [
+    2025,
+    7,
+    5,
+    8,
+    3,
+    24,
+    987120
+  ],
+  "highlight_filenames": [],
+  "progress_regexs": [],
+  "group_id": "veRG61",
+  "group_index": 20,
+  "id": "PufH9A"
+}
